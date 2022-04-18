@@ -31,7 +31,7 @@ I will separate and refactoring code files soon.
 
     Sales Pie Chart by Region
 
-    ![00sales](00sales.png)   ![10sales](10sales.png)
+    ![00sales](/image/00sales.png)   ![10sales](/image/10sales.png)
 
     High proportion of sales in English-speaking countries -> Use review data from English-speaking countries for future analysis
 
@@ -40,7 +40,7 @@ I will separate and refactoring code files soon.
 
     Trend Analysis of Players and Viewers by Moving Average
 
-    ![moving](viewer_moving.PNG)
+    ![moving](/image/viewer_moving.PNG)
 
     player (blue line) has increased since covid-19(right side of red line), and the switch viewer (orange line) has shown an explosive increase.
 
@@ -50,11 +50,11 @@ I will separate and refactoring code files soon.
 
     Genre
     
-    ![before_genre](before_genre.png) ![after_genre](after_genre.png)
+    ![before_genre](/image/before_genre.png) ![after_genre](/image/after_genre.png)
 
     Tag
 
-    ![before_tag](before_tag.png) ![after_tag](after_tag.png)
+    ![before_tag](/image/before_tag.png) ![after_tag](/image/after_tag.png)
 
     Indie games are consistently at the top, and the proportion of action adventures has increased.
     
@@ -64,7 +64,7 @@ I will separate and refactoring code files soon.
 
     Review count timeseries graph
 
-    ![gta_review_count](gta_review_count.PNG) ![cs_review_count](cs_review_count.PNG)
+    ![gta_review_count](/image/gta_review_count.PNG) ![cs_review_count](/image/cs_review_count.PNG)
 
     Blue represents positive and orange represents negative reviews. If you look to the right with the color red, you can see that the number of reviews has exploded.
 
@@ -74,7 +74,7 @@ I will separate and refactoring code files soon.
 
     Positive/Negative Pie Chart
 
-    ![before_sent](before_sent.png) ![after_sent](after_sent.png)
+    ![before_sent](/image/before_sent.png) ![after_sent](/image/after_sent.png)
 
     Positive rate very high after covid-19
      
