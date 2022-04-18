@@ -10,6 +10,8 @@ I will separate and refactoring code files soon.
 
 <br>
 
+---
+
 ## Dataset
 
 
@@ -25,9 +27,11 @@ I will separate and refactoring code files soon.
 <br>
 <br>
 
+---
+
 ## Analysis
 
-1. Vgchart data
+### 1. Vgchart data
 
     Sales Pie Chart by Region
 
@@ -36,7 +40,7 @@ I will separate and refactoring code files soon.
     High proportion of sales in English-speaking countries -> Use review data from English-speaking countries for future analysis
 
 
-2. Player, Twitch viewer data
+### 2. Player, Twitch viewer data
 
     Trend Analysis of Players and Viewers by Moving Average
 
@@ -44,7 +48,7 @@ I will separate and refactoring code files soon.
 
     player (blue line) has increased since covid-19(right side of red line), and the switch viewer (orange line) has shown an explosive increase.
 
-3. Game data
+### 3. Game data
 
     Frequency Ranking Bar Chart for Genre and Tags
 
@@ -60,7 +64,7 @@ I will separate and refactoring code files soon.
     
     Therefore, review analysis uses GTA5, an open world action adventure game.
 
-4. Review count
+### 4. Review count
 
     Review count timeseries graph
 
@@ -68,7 +72,7 @@ I will separate and refactoring code files soon.
 
     Blue represents positive and orange represents negative reviews. If you look to the right with the color red, you can see that the number of reviews has exploded.
 
-5. Review data
+### 5. Review data
 
     GTA5 review sentimental analysis - using vader
 
@@ -82,6 +86,7 @@ I will separate and refactoring code files soon.
  
 <br>
 
+---
 
 ## Keyfile
 ```Analysis.ipynb``` - It contains all the processes of data loading, preprocessing, and analysis. It will be separated by each data and analysis.
