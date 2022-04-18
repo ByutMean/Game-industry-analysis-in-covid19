@@ -33,54 +33,54 @@ I will separate and refactoring code files soon.
 
 ### 1. Vgchart data
 
-    Sales Pie Chart by Region
+Sales Pie Chart by Region
 
-    ![00sales](/image/00sales.png)   ![10sales](/image/10sales.png)
+![00sales](/image/00sales.png)   ![10sales](/image/10sales.png)
 
-    High proportion of sales in English-speaking countries -> Use review data from English-speaking countries for future analysis
+High proportion of sales in English-speaking countries -> Use review data from English-speaking countries for future analysis
 
 
 ### 2. Player, Twitch viewer data
 
-    Trend Analysis of Players and Viewers by Moving Average
+Trend Analysis of Players and Viewers by Moving Average
 
-    ![moving](/image/viewer_moving.PNG)
+![moving](/image/viewer_moving.PNG)
 
-    player (blue line) has increased since covid-19(right side of red line), and the switch viewer (orange line) has shown an explosive increase.
+player (blue line) has increased since covid-19(right side of red line), and the switch viewer (orange line) has shown an explosive increase.
 
 ### 3. Game data
 
-    Frequency Ranking Bar Chart for Genre and Tags
+Frequency Ranking Bar Chart for Genre and Tags
 
-    Genre
-    
-    ![before_genre](/image/before_genre.png) ![after_genre](/image/after_genre.png)
+Genre
 
-    Tag
+![before_genre](/image/before_genre.png) ![after_genre](/image/after_genre.png)
 
-    ![before_tag](/image/before_tag.png) ![after_tag](/image/after_tag.png)
+Tag
 
-    Indie games are consistently at the top, and the proportion of action adventures has increased.
-    
-    Therefore, review analysis uses GTA5, an open world action adventure game.
+![before_tag](/image/before_tag.png) ![after_tag](/image/after_tag.png)
+
+Indie games are consistently at the top, and the proportion of action adventures has increased.
+
+Therefore, review analysis uses GTA5, an open world action adventure game.
 
 ### 4. Review count
 
-    Review count timeseries graph
+Review count timeseries graph
 
-    ![gta_review_count](/image/gta_review_count.PNG) ![cs_review_count](/image/cs_review_count.PNG)
+![gta_review_count](/image/gta_review_count.PNG) ![cs_review_count](/image/cs_review_count.PNG)
 
-    Blue represents positive and orange represents negative reviews. If you look to the right with the color red, you can see that the number of reviews has exploded.
+Blue represents positive and orange represents negative reviews. If you look to the right with the color red, you can see that the number of reviews has exploded.
 
 ### 5. Review data
 
-    GTA5 review sentimental analysis - using vader
+GTA5 review sentimental analysis - using vader
 
-    Positive/Negative Pie Chart
+Positive/Negative Pie Chart
 
-    ![before_sent](/image/before_sent.png) ![after_sent](/image/after_sent.png)
+![before_sent](/image/before_sent.png) ![after_sent](/image/after_sent.png)
 
-    Positive rate very high after covid-19
+Positive rate very high after covid-19
      
 
  
